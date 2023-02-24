@@ -6,9 +6,9 @@
 
 ##### live site
 # on netlify
-<!-- https://idyllic-froyo-8cefa8.netlify.app/ -->
+"https://idyllic-froyo-8cefa8.netlify.app/"
 # on github
-<!-- https://orenzylber.github.io/crud_flask_sqlalchemy_html_students2/ -->
+"https://orenzylber.github.io/crud_flask_sqlalchemy_html_students2/"
 
 
 # Update DB create 
