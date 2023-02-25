@@ -8,7 +8,7 @@
 # on netlify
 "https://idyllic-froyo-8cefa8.netlify.app/"
 # on github (add 'h' in the begining of the url)
-"ttps://orenzylber.github.io/crud_flask_sqlalchemy_html_students2/"
+<!-- "https://orenzylber.github.io/crud_flask_sqlalchemy_html_students2/" -->
 
 
 # Update DB create 
